@@ -24,19 +24,20 @@ Proxxie
 [EV_Jack](https://github.com/EvJack)  
 [Fremad](https://github.com/Fremadico)  
 [kt0t0wh0](https://github.com/kt0t0Sudd3n)  
-[Kraken-Juice](https://github.com/Kraken-Juice)
+[Kraken-Juice](https://github.com/Kraken-Juice)  
 [Murfex](https://github.com/Murfex)  
 NinkPT  
 [PsyB34R](https://www.instagram.com/psybearr)  
 Rinelle  
 [SnRetro](https://github.com/SnRetro)  
-[nopeholmes](https://github.com/nopeholmes)
+[nopeholmes](https://github.com/nopeholmes)  
 Unfairissimo  
 
 ## Lore
 [byakkozen](https://github.com/byakkozen)  
 [bvcxz](https://github.com/bvcxz-cybercode)  
 [CelesMeh](https://www.instagram.com/celesmeh)  
+NinkPT
 [PsyB34R](https://www.instagram.com/psybearr)  
 SaberTron  
 Satan  
@@ -44,18 +45,30 @@ Satan
 [Tripplehelix](https://github.com/tripplehelix)  
 [twystd](https://github.com/twystd)  
 x123456789  
+siruelionn  
+Dragonmaster84  
+RezaRnew100  
+[Veyrin](https://github.com/darkrevelations)  
+WoLoLoiK  
+JashinL  
+
 
 ## Dungeons
 [alfaice](https://github.com/alfaice)  
 [Deckeeper](https://github.com/deckeeper)  
 [DexterHuang](https://github.com/DexterHuang)  
 [Hally](https://twitter.com/g_hally1996)  
-NinkPT  
+JashinL  
 [JEricaM](https://github.com/JEricaM)  
+mika  
+Negative  
+NinkPT  
+RezaRnew100  
+SitiSchu  
 [Tripplehelix](https://github.com/tripplehelix)  
 Vega_Efsunborn  
 zomg  
-[Veyrin](https://github.com/darkrevelations)
+[Veyrin](https://github.com/darkrevelations)  
 
 ## Tutorial
 [alfaice](https://github.com/alfaice)  
@@ -64,6 +77,7 @@ zomg
 [DexterHuang](https://github.com/DexterHuang)  
 Dzylx  
 [HBUnknown](https://www.facebook.com/john.bostwick.31)  
+Living Dead
 [Misaki](https://github.com/Misaki290)  
 [Omnipotent_God](https://github.com/Omnipotent-God)  
 [s3rvant](https://github.com/s3rvant)  
@@ -79,20 +93,23 @@ Aquacky
 [Misaki](https://github.com/Misaki290)  
 [Deckeeper](https://github.com/deckeeper)  
 [DexterHuang](https://github.com/DexterHuang)  
+FoxHunt  
 [ghosted-bot](https://github.com/ghosted-bot)  
 [Hally](https://twitter.com/g_hally1996)  
 HumbleServant  
 [JEricaM](https://github.com/JEricaM)  
+Kaktusmonas  
 [Luako](https://github.com/luako)  
 [MarcelWeidum](https://github.com/MarcelWeidum)  
 [me505](https://github.com/me505)  
-[Montero](https://github.com/CCOLucille2)
+[Montero](https://github.com/CCOLucille2)  
 [mxjoda](https://twitter.com/mxjoda)  
+NinkPT  
 [PsyB34R](https://www.instagram.com/psybearr)  
 [Ryujin](https://github.com/Ryujin-cybercode)  
 Satan  
 [Tripplehelix](https://github.com/tripplehelix)  
-[Veyrin](https://github.com/darkrevelations)
+[Veyrin](https://github.com/darkrevelations)  
 
 ## Tips
 [Archibaald](https://github.com/Archibaald-dev)  
@@ -110,7 +127,11 @@ roucoupute2
 RsKaiser  
 [Russ Hammett](https://github.com/Kritner)  
 [s3rvant](https://github.com/s3rvant)  
+spyd3r  
 [Tripplehelix](https://github.com/tripplehelix)  
+
+## Proofreader
+[The_Wayfarrer](https://github.com/epixinvites)
 
 ## Other Contributors
 [AdmiralDiemos](https://github.com/danofsatx)  
