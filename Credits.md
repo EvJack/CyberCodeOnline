@@ -26,18 +26,19 @@ Proxxie
 [kt0t0wh0](https://github.com/kt0t0Sudd3n)  
 [Kraken-Juice](https://github.com/Kraken-Juice)  
 [Murfex](https://github.com/Murfex)  
-NinkPT  
+MontyPython   
 [PsyB34R](https://www.instagram.com/psybearr)  
 Rinelle  
 [SnRetro](https://github.com/SnRetro)  
 [nopeholmes](https://github.com/nopeholmes)  
 Unfairissimo  
+Ryugarret
 
 ## Lore
 [byakkozen](https://github.com/byakkozen)  
 [bvcxz](https://github.com/bvcxz-cybercode)  
 [CelesMeh](https://www.instagram.com/celesmeh)  
-NinkPT
+MontyPython  
 [PsyB34R](https://www.instagram.com/psybearr)  
 SaberTron  
 Satan  
@@ -62,7 +63,7 @@ JashinL
 [JEricaM](https://github.com/JEricaM)  
 mika  
 Negative  
-NinkPT  
+MontyPython   
 RezaRnew100  
 SitiSchu  
 [Tripplehelix](https://github.com/tripplehelix)  
@@ -76,8 +77,8 @@ zomg
 [Deckeeper](https://github.com/deckeeper)  
 [DexterHuang](https://github.com/DexterHuang)  
 Dzylx  
-[HBUnknown](https://www.facebook.com/john.bostwick.31)  
-Living Dead
+HBUNKNOWN  
+Livingdead  
 [Misaki](https://github.com/Misaki290)  
 [Omnipotent_God](https://github.com/Omnipotent-God)  
 [s3rvant](https://github.com/s3rvant)  
@@ -104,7 +105,7 @@ Kaktusmonas
 [me505](https://github.com/me505)  
 [Montero](https://github.com/CCOLucille2)  
 [mxjoda](https://twitter.com/mxjoda)  
-NinkPT  
+MontyPython   
 [PsyB34R](https://www.instagram.com/psybearr)  
 [Ryujin](https://github.com/Ryujin-cybercode)  
 Satan  
@@ -121,7 +122,7 @@ Bronzer
 [RaykouTJ](https://github.com/HoneySyrup)  
 [levi middleton](https://github.com/levi-middleton)   
 [Misaki](https://github.com/Misaki290)  
-Mobius-1  
+Mobius_One  
 Pikkon85  
 roucoupute2  
 RsKaiser  
